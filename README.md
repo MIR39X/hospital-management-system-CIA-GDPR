@@ -1,10 +1,4 @@
-## Hospital Management System — Student Cheat Sheet
-
-Imagine you’re explaining this assignment to a classmate who just cloned the repo. This README covers the “what,” “why,” and “how” so they can run the project, capture screenshots, and write the report without digging through every file.
-
----
-
-### 1. Project Summary
+sss### 1. Project Summary
 
 - **Goal:** Build a mini hospital dashboard that respects the CIA triad (Confidentiality, Integrity, Availability) and GDPR-style best practices.
 - **Tech Stack:** Streamlit + Python 3.11 + SQLite.
@@ -62,20 +56,8 @@ Use this section when writing the report or presenting in class.
 4. **Receptionist dashboard** — explain how they add/edit patients without viewing raw identifiers.
 5. **Assignment4.py** — run `python Assignment4.py` to print the textual walkthrough (nice addition to the PDF appendix).
 
-Grab screenshots of each for the report.
 
----
-
-### 5. Deliverables Reminder
-
-1. Source code + `hospital.db`.
-2. PDF report (3–5 pages) with CIA diagram, screenshots, GDPR discussion.
-3. `Assignment4.py` (already in repo) — mention it in the report.
-4. Optional 2–3 minute demo video (screen-record the Streamlit flow).
-
----
-
-### 6. Need to explain it live?
+### 5. Need to explain it live?
 
 Use this script:
 1. “We log in using seeded accounts; RBAC decides which view you see.”
@@ -84,4 +66,4 @@ Use this script:
 4. “Uptime + CSV + SQLite ensure availability.”
 5. “Assignment4.py provides the textual walkthrough for the professor.”
 
-That should cover the assignment in plain language for any student who needs to understand or demonstrate it.
+
