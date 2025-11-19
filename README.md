@@ -59,11 +59,3 @@ This prints the steps, CIA coverage, and DB snapshot (patient/log counts).
 
 ---
 
-### Deliverables Checklist
-
-1. **Source Code Folder** - includes `.py` files and `hospital.db`
-2. **PDF Report** - include screenshots of login/anonymized/audit views and describe CIA/GDPR alignment
-3. **Assignment4.py** - already added; reference in the report
-4. **Optional Demo Video** - record a 2-3 minute walkthrough of the Streamlit app
-
-Feel free to customize this README with screenshots or additional notes before submission.
