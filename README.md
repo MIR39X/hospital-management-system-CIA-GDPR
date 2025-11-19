@@ -1,4 +1,4 @@
-sss### 1. Project Summary
+### 1. Project Summary
 
 - **Goal:** Build a mini hospital dashboard that respects the CIA triad (Confidentiality, Integrity, Availability) and GDPR-style best practices.
 - **Tech Stack:** Streamlit + Python 3.11 + SQLite.
